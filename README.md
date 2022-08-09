@@ -40,4 +40,4 @@ O sistema possui uma licença MIT.
 
 
 
-@Paulo Barbosa
+@Paulo_Barbosa
