@@ -37,3 +37,7 @@ Este sistema foi implementado por Daniel Ferreira, aluno de graduação em Ciên
 ## Licença de Uso
 
 O sistema possui uma licença MIT.
+
+
+
+@Paulo Barbosa
