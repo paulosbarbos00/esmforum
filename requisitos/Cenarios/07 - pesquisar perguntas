@@ -1,0 +1,7 @@
+História de Usuário: Pesquisar Perguntas
+
+Cenário 1:
+Dado que estou na página principal do sistema
+Quando acesso a barra de pesquisa
+Então posso pesquisar por palavras que me mostrará perguntas
+que contenha as palvras pesquisadas

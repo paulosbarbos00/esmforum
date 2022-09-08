@@ -1,0 +1,15 @@
+História de Usuário: Denunciar pergunta ou resposta
+
+Cenário 1:
+Dado que estou vendo uma pergunta ou resposta
+Quando autenticado como usuário comum
+e acesso as opções da pergunta ou resposta
+Então posso reportar-la direcionando ao suporte do forúm
+
+
+Cenário 2:
+Dado que estou vendo uma pergunta ou resposta
+Quando autenticado como usuário administrador
+e acesso as opções da pergunta ou resposta
+Então posso reportar-la direcionando ao suporte do forúm
+e excluir-la notificando o dono da pergunta ou resposta

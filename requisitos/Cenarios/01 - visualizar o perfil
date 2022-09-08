@@ -1,0 +1,14 @@
+História de Usuário: Visualizar perfil de outros usuários
+
+Cenário 1:
+Dado que estou acessando um perfil de usuário
+Quando autenticado como usuário comum
+Então vejo suas informações públicas
+
+
+Cenário 2:
+Dado que estou acessando um perfil de usuário
+Quando autenticado como usuário administrador
+Então vejo suas informações públicas
+e tenho acesso a seu e-mail
+e posso alterar algumas configurações de usabilidade

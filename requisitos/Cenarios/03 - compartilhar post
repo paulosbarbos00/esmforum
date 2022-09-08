@@ -1,0 +1,8 @@
+História de Usuário: Compartilhar resposta ou pergunta
+
+Cenário 1:
+Dado que estou vendo uma pergunta ou resposta
+Quando autenticado no sistema
+e acesso as opções da pergunta ou resposta
+Então posso compartilhar em minhas redes sociais
+

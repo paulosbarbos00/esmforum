@@ -1,0 +1,7 @@
+História de Usuário: Visualizar reputação do usuário
+
+Cenário 1:
+Dado que estou acessando um perfil de usuário
+Quando autenticado no sistema
+e acesso a guia de reputação
+Então vejo sua pontuação de aceitabilidade

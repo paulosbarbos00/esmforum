@@ -1,0 +1,7 @@
+História de Usuário: Fechar pergunta
+
+Cenário 1:
+Dado que estou acessando uma pergunta
+Quando autenticado como usuário administrador
+e acessando as opções da pergunta
+Então posso fechar-la para não receber novas respostas

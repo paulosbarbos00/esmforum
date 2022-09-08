@@ -1,0 +1,23 @@
+História de Usuário: Confirmar se a resposta foi útil
+
+Cenário 1:
+Dado que estou vendo uma resposta
+Quando autenticado como usuário comum
+e acesso as opções da resposta
+Então posso avaliar se a resposta me foi útil ou não
+
+
+Cenário 2:
+Dado que estou vendo uma resposta
+Quando autenticado como usuário comum
+e acesso as opções da resposta
+Então posso avaliar se a resposta me foi útil ou não
+mas não visualizo a opção resposta for de autoria própria
+
+
+Cenário 3:
+Dado que estou vendo uma resposta
+Quando autenticado como usuário administrador
+e acesso as opções da resposta
+Então posso avaliar se a resposta me foi útil ou não
+mas não visualizo a opção resposta for de autoria própria

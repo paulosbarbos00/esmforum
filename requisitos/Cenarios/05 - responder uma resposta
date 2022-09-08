@@ -1,0 +1,7 @@
+História de Usuário: Responder a uma resposta
+
+Cenário 1:
+Dado que estou vendo uma resposta
+Quando autenticado no sistema
+e acesso as opções da resposta
+Então posso responder a resposta

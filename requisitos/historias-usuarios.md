@@ -15,14 +15,14 @@ As histórias de usuário do sistema -- que fazem parte do **backlog do produto*
 * Como administrador, eu gostaria de editar ou remover perguntas ou respostas de qualquer usuário
 * Como administrador, eu gostaria de adicionar ou remover tags de qualquer pergunta ou resposta
 
-* Como usuário, eu gostaria de visualizar o perfil de quem perguntou ou respondeu
+* Como usuário, eu gostaria de visualizar o perfil de outros usuário
 * Como usuário, eu gostaria de confirmar se a resposta me foi útil ou não
 * Como usuário, eu gostaria de compartilhar resposta ou pergunta
 * Como usuário, eu gostaria de denunciar perguntas ou respostas
 * Como usuário, eu gostaria de responder a uma resposta
 * Como usuário, eu gostaria de bloquear usuários
-* Como usuário, eu gostaria de pesquisar por categorias de perguntas
-* Como usuário, eu gostaria de vizualizar reputação do usuário
+* Como usuário, eu gostaria de pesquisar por perguntas
+* Como usuário, eu gostaria de visualizar reputação do usuário
 * Como administrador, eu gostaria de banir ou remover usuários
 * Como administrador, eu gostaria de fechar forúm para bloquear novas mensagens
 

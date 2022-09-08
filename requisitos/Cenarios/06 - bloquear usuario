@@ -1,0 +1,6 @@
+História de Usuário: Bloquear Usuário
+
+Cenário 1:
+Dado que estou acessando um perfil de usuário
+Quando autenticado no sistema
+Então posso bloquear o usuário para não vizualizar suas perguntas e respostas
